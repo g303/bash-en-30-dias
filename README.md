@@ -50,7 +50,7 @@ Los objetivos de este curso son los siguientes:
 - Operaciones de directorio en Bash
 - Comando "cd" en Bash
 - Comando "ls" en Bash
-### Día 11: Manipulación de texto
+### Día 11: Manipulación de texto
 - Comando "sed" en Bash
 - Comando "awk" en Bash
 - Transformación de texto en Bash

@@ -11,17 +11,17 @@ Los objetivos de este curso son los siguientes:
 * Aprender a trabajar con variables, funciones y condiciones en Bash.
 
 ### Día 1: Introducción a Bash
-¿Qué es Bash?
-¿Por qué es importante aprender Bash?
-Configuración del entorno Bash
+- ¿Qué es Bash?
+- ¿Por qué es importante aprender Bash?
+- Configuración del entorno Bash
 ### Día 2: Fundamentos de Bash
-Comandos de Bash
-Sintaxis de Bash
-Variables en Bash
+- Comandos de Bash
+- Sintaxis de Bash
+- Variables en Bash
 ### Día 3: Comandos básicos de Bash
-Comandos de archivo y directorio
-Comandos de navegación
-Comandos de ayuda
+- Comandos de archivo y directorio
+- Comandos de navegación
+- Comandos de ayuda
 ### Día 4: Redirección y tuberías
 Redirección de entrada y salida
 Tuberías

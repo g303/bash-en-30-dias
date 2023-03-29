@@ -10,55 +10,62 @@ Los objetivos de este curso son los siguientes:
 * Aprender a escribir scripts Bash útiles para la gestión de archivos y directorios.
 * Aprender a trabajar con variables, funciones y condiciones en Bash.
 
-### Día 1: Introducción a Bash
-- ¿Qué es Bash?
-- ¿Por qué es importante aprender Bash?
-- Configuración del entorno Bash
+### Día 1: Introducción a Bash y al terminal
+- Qué es Bash
+- Por qué Bash es importante
+- Instalación de Bash
+- Uso básico de la terminal
+- Uso de comandos básicos de Bash
 ### Día 2: Fundamentos de Bash
-- Comandos de Bash
-- Sintaxis de Bash
+- Tipos de datos en Bash
 - Variables en Bash
+- Operadores en Bash
+- Expresiones aritméticas en Bash
+- Expresiones lógicas en Bash
 ### Día 3: Comandos básicos de Bash
-- Comandos de archivo y directorio
-- Comandos de navegación
-- Comandos de ayuda
-### Día 4: Redirección y tuberías
-- Redirección de entrada y salida
-- Tuberías
-- Uso de comandos en conjunto
-### Día 5: Scripts de Bash
-- ¿Qué es un script de Bash?
-- Creación y ejecución de scripts de Bash
-- Variables en scripts de Bash
-### Día 6: Control de flujo
-- Declaraciones condicionales en Bash
-- Bucles en Bash
-- Interrupción de bucles
+- Comandos de navegación de archivos y directorios
+- Comandos de manipulación de archivos y directorios
+- Comandos de visualización de archivos
+- Comandos de redireccionamiento de entrada y salida
+### Día 4: Control de flujo en Bash
+- Estructuras condicionales en Bash
+- Estructuras de repetición en Bash
+- Uso de break y continue en Bash
+- Uso de select en Bash
+- Ejemplos prácticos de control de flujo en Bash
+### Día 5: Scripting en Bash
+- Creación de un script Bash
+- Permisos de archivo y ejecución de un script
+- Variables de entorno en Bash
+- Paso de argumentos a un script
+- Ejecución de comandos externos en un script
+### Día 6: Expresiones regulares en Bash
+- Qué son las expresiones regulares
+- Sintaxis básica de las expresiones regulares
+- Operadores y metacaracteres en las expresiones regulares
+- Ejemplos prácticos de expresiones regulares en Bash
+- Uso de expresiones regulares en la manipulación de texto en Bash
 ### Día 7: Funciones en Bash
-- ¿Qué son las funciones en Bash?
 - Creación y uso de funciones en Bash
-- Retorno de valores de las funciones
-### Día 8: Expresiones regulares
-- ¿Qué son las expresiones regulares?
-- Sintaxis de las expresiones regulares
-- Utilización de las expresiones regulares en Bash
-### Día 9: Trabajando con archivos
-- Operaciones de archivo en Bash
-- Comando "cat" en Bash
-- Comando "grep" en Bash
-### Día 10: Trabajando con directorios
-- Operaciones de directorio en Bash
-- Comando "cd" en Bash
-- Comando "ls" en Bash
-### Día 11: Manipulación de texto
-- Comando "sed" en Bash
-- Comando "awk" en Bash
-- Transformación de texto en Bash
-### Día 12: Variables de entorno
-- ¿Qué son las variables de entorno?
-- Variables de entorno predefinidas en Bash
-- Creación de variables de entorno personalizadas en Bash
-### Día 13: Comandos de usuario
-- Comandos de usuario en Bash
-- Uso de la terminal como usuario
-- Gestión de usuarios en Bash
+- Parámetros y valores de retorno de funciones en Bash
+- Uso de variables globales y locales en funciones en Bash
+- Ejemplos prácticos de funciones en Bash
+- Reutilización de código con funciones en Bash
+### Día 8: Trabajo con archivos y directorios en Bash
+- Manipulación de archivos y directorios en Bash
+- Uso de comandos de búsqueda en Bash
+- Comandos de filtrado de archivos en Bash
+- Comandos de comparación de archivos en Bash
+- Ejemplos prácticos de manipulación de archivos y directorios en Bash
+### Día 9: Control de procesos en Bash
+- Creación y ejecución de procesos en Bash
+- Uso de señales para controlar procesos en Bash
+- Monitoreo y administración de procesos en Bash
+- Ejemplos prácticos de control de procesos en Bash
+- Automatización de procesos en Bash
+### Día 10: Uso avanzado de Bash
+- Uso de comandos avanzados de Bash
+- Ejecución de comandos remotos en Bash
+- Configuración de Bash
+- Uso de subshell en Bash
+- Ejemplos prácticos de uso avanzado de Bash

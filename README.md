@@ -38,7 +38,7 @@ Los objetivos de este curso son los siguientes:
 - ¿Qué son las funciones en Bash?
 - Creación y uso de funciones en Bash
 - Retorno de valores de las funciones
-### Día 8: Expresiones regulares
+### Día 8: Expresiones regulares
 - ¿Qué son las expresiones regulares?
 - Sintaxis de las expresiones regulares
 - Utilización de las expresiones regulares en Bash
